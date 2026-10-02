@@ -1,10 +1,10 @@
-# Hi, I'm Oscar Uche👋🏾
+# Hi, I am Oscar Uche👋🏾
 
 **Statistics Graduate | Data Analytics | Sports Analytics | Problem Solver**
 
-I’m a Statistics graduate from the **Federal University of Technology, Owerri (FUTO)** with an interest in turning raw data into insights that support better decisions.
+I am a Statistics graduate from the **Federal University of Technology, Owerri (FUTO)** with an interest in turning raw data into insights that support better decisions.
 
-My background in Statistics has given me a foundation in **data analysis, statistical reasoning, research, and quantitative problem-solving**, and I’m currently building practical experience through hands-on analytics projects.
+My background in Statistics has given me a foundation in **data analysis, statistical reasoning, research, and quantitative problem-solving**, and I am currently building practical experience through hands-on analytics projects.
 
 ### 🛠️ Tools & Technologies
 
@@ -23,7 +23,7 @@ My background in Statistics has given me a foundation in **data analysis, statis
 | **Sales Dashboard**                         | Interactive dashboard exploring sales performance and key business metrics.                                                | Excel            |
 | **Customer Retention Analysis**             | Cleaned and analyzed customer data to identify retention patterns and summarize customer behavior.                         | Excel            |
 
-### 🎯 What I'm Currently Working On
+### 🎯 What I am Currently Working On
 
 * Building a stronger **data analytics portfolio**
 * Improving my **SQL, Power BI and Python** skills
