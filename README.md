@@ -2,7 +2,7 @@
 
 **Statistics Graduate | Data Analytics | Sports Analytics | Problem Solver**
 
-I am a Statistics graduate from the **Federal University of Technology, Owerri (FUTO)** with an interest in turning raw data into insights that support better decisions.
+I am a Junior Analyst with an interest in turning raw data into insights that support better decisions.
 
 My background in Statistics has given me a foundation in **data analysis, statistical reasoning, research, and quantitative problem-solving**, and I am currently building practical experience through hands-on analytics projects.
 
@@ -20,8 +20,6 @@ My background in Statistics has given me a foundation in **data analysis, statis
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------- |
 | **E-Commerce Sales Profitability Analysis (https://github.com/uo-scar/ecommerce-sales-analysis)** | Analyzed sales, revenue, profit, quantity and product categories to identify profitability patterns and business insights. | Excel            |
 | **Basketball Performance Analysis**         | Statistical analysis of factors affecting basketball scoring using match-level data from Rivers Hoopers.                   | SPSS, Statistics |
-| **Sales Dashboard**                         | Interactive dashboard exploring sales performance and key business metrics.                                                | Excel            |
-| **Customer Retention Analysis**             | Cleaned and analyzed customer data to identify retention patterns and summarize customer behavior.                         | Excel            |
 
 ### 🎯 What I am Currently Working On
 
