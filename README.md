@@ -19,7 +19,7 @@ My background in Statistics has given me a foundation in **data analysis, statis
 | Project                                     | Description                                                                                                                | Tools            |
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------- |
 | **E-Commerce Sales Profitability Analysis (https://github.com/uo-scar/ecommerce-sales-analysis)** | Analyzed sales, revenue, profit, quantity and product categories to identify profitability patterns and business insights. | Excel            |
-| **Basketball Performance Analysis**         | Statistical analysis of factors affecting basketball scoring using match-level data from Rivers Hoopers.                   | SPSS, Statistics |
+| **Basketball Performance Analysis (https://github.com/uo-scar/Basketball-Performance-Analysis)** | Statistical analysis of factors affecting basketball scoring using match-level data from Rivers Hoopers.                   | SPSS, Statistics |
 
 ### 🎯 What I am Currently Working On
 
